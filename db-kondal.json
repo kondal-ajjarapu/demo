@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post A" },
+    { "id": 2, "title": "Post B" },
+    { "id": 3, "title": "Post C" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Kondal 1 comment", "postId": 1 },
+    { "id": 2, "body": "Kondal 2 comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "Kondalcode"
+  }
+}
